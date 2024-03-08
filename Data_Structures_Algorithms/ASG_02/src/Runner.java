@@ -8,7 +8,6 @@ import java.io.IOException;
 
 /* 
  * Hayden Church
- * 30133957
  */
 public class Runner {
 

@@ -1,5 +1,8 @@
 # Incomplete collection of Intro to Graphics projects
+
 Projects were written in C++ and made use of the Vulkan API.
+
+Shaders were written in hlsl and glsl.
 
 The main project for this class was to create an OBJ viewer that had support for textures, ambient lighting, diffuse lighting, specular lighting, extrinsic rotations, intrinsic rotations, translations, zoom, as well as an arcball camera.
  
